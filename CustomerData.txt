@@ -1,0 +1,7 @@
+10010589|Mr. S Kumar|Flat no. 501, Green View Park,Hinjewandi, Pune|9001045238
+30045721|Mr. A Gupta|Flat no. 103, Ganaga nagari, Kharadi, Pune|7521457896
+68748963|Miss K Rao|Flat no. 703, Platinum Plazza, Dhanori, Pune|8201475689
+80074567|Mr. O Vilas|  Flat no. 501, Green View Park,Hinjewandi, Pune|9001045238
+78524169|Mrs. N Akira|Flat no. 103, Ganaga nagari, Kharadi, Pune|7521457896
+40010973|Mr. S Tyagi|Flat no. 501, Green View Park,Hinjewandi, Pune|9001045238
+35748909|Mrs. M Sharma|Flat no. 703, Platinum Plazza, Dhanori, Pune|8201475689
